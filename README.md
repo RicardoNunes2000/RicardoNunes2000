@@ -1,3 +1,7 @@
+![](https://raw.githubusercontent.com/RicardoNunes2000/RicardoNunes2000/refs/heads/main/bg_only.png#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/RicardoNunes2000/RicardoNunes2000/refs/heads/main/logo.png#gh-light-mode-only)
+
+
 ### About me:
 I’m a software engineer with a focus on data pipelines, automation, and clean architecture. For me, good engineering is about clarity: systems should be simple, scalable, and resilient—not overengineered.
 
