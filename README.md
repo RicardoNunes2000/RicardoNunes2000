@@ -7,9 +7,9 @@ I spend a lot of time thinking about what happens when things go wrong: timeouts
 
 I value three things above all:
 
-Simplicity — the cleanest solution is usually the most sustainable.
-Patterns over chaos — design patterns avoid fragile, confusing code.
-No repetition — logic should exist in one place and be done right.
+Simplicity - the cleanest solution is usually the most sustainable.
+Patterns over chaos - design patterns avoid fragile, confusing code.
+No repetition - logic should exist in one place and be done right.
 
 At the end of the day, I don't think of my work as just writing scripts.
 I think of it as building tools that free people from repetitive tasks and make data more useful.
