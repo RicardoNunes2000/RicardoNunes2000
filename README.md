@@ -1,16 +1,17 @@
 
 ### About me:
-I’m a software engineer with a focus on data pipelines, automation, and clean architecture. For me, good engineering is about clarity: systems should be simple, scalable, and resilient—not overengineered.
+I'm a software engineer focused on data pipelines, automation, and clean architecture.
 
-I like dealing with messy, real-world data: ingesting it, transforming it, and shaping it into reliable flows that people can actually trust. My goal isn’t just to make things work once, but to build tools that keep working long after the first deployment.
+My day-to-day is designing systems that scrape, process, and serve large volumes of unstructured data, mostly government documents. 
+I spend a lot of time thinking about what happens when things go wrong: timeouts, malformed responses, sites that change without warning. Most of my architecture decisions come from watching something break and making sure it doesn't break that way again.
 
 I value three things above all:
 
-Simplicity – the cleanest solution is usually the most sustainable.
-Patterns over chaos – design patterns avoid fragile, confusing code.
-No repetition – logic should exist in one place and be done right.
+Simplicity — the cleanest solution is usually the most sustainable.
+Patterns over chaos — design patterns avoid fragile, confusing code.
+No repetition — logic should exist in one place and be done right.
 
-At the end of the day, I don’t think of my work as just writing scripts. 
+At the end of the day, I don't think of my work as just writing scripts.
 I think of it as building tools that free people from repetitive tasks and make data more useful.
 
 ---
